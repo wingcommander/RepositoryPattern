@@ -1,0 +1,11 @@
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\obj\Debug\Xamlized.Database.csprojResolveAssemblyReference.cache
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.dll.config
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.dll
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.pdb
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\obj\Debug\Xamlized.Database.dll
+E:\Work\Xamlized.RepositoryPattern\Xamlized.Database\obj\Debug\Xamlized.Database.pdb
+C:\Projects\RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.dll.config
+C:\Projects\RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.dll
+C:\Projects\RepositoryPattern\Xamlized.Database\bin\Debug\Xamlized.Database.pdb
+C:\Projects\RepositoryPattern\Xamlized.Database\obj\Debug\Xamlized.Database.dll
+C:\Projects\RepositoryPattern\Xamlized.Database\obj\Debug\Xamlized.Database.pdb
